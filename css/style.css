@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+  background-color: #55ACEE;
+  color: #fff;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.searchpanel {
+  width: 400px;
+  margin: 20px auto;
+}
