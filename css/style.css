@@ -13,3 +13,9 @@ li {
   width: 400px;
   margin: 20px auto;
 }
+
+input {
+  background-color: #fff;
+  color: black;
+  border: none;
+}
